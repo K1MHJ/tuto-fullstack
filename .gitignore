@@ -1,0 +1,4 @@
+back-end/app/db.sqlite3
+back-end/app/api/migrations/*
+back-end/app/app/__pycache__/*
+back-end/app/api/__pycache__/*
